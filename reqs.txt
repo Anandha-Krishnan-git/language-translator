@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pyngrok
+transformers
+torch
+pydantic
+sentencepiece
