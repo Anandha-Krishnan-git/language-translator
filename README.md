@@ -17,7 +17,7 @@ This project is a language translation API built using FastAPI. It provides endp
 ### Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/language-translator.git
+   git clone https://github.com/Anandha-Krishnan-git/language-translator.git
    cd language-translator
    ```
 2. Create a virtual environment and activate it:
@@ -27,7 +27,7 @@ This project is a language translation API built using FastAPI. It provides endp
    ```
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install -r reqs.txt
    ```
 
 ## Running the API
